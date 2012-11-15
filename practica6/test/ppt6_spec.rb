@@ -49,18 +49,3 @@ end
 
 
 end
-
-
-=begin
-Debe existir una tirada para el humano (geter)-------------------------------------------------------------------- HECHA
-Debe existir una tirada para la maquina (geter)------------------------------------------------------------------- HECHA
-Debe existir una lista de tiradas validas (geter)----------------------------------------------------------------- HECHA
-Debe existir una lista de jugadas posibles y quien gana (geter)--------------------------------------------------- HECHA
-Se debe invocar al metodo obtener_humano() para recoger la tirada del humano y que esta sea valida (generador)---- HECHA
-Se debe invocar al metodo obtener_maquina() para recoger la tirada de la maquina y que esta sea valida (Generador) HECHA
-Debe existir una lista de resultados de un juego desde el punto de vista de la maquina --------------------------- NO
-Debe existir un resultado para un juego, desde el punto de vista de la maquina ----------------------------------- NO
-Se debe invocar al metodo jugar() para determinar el ganador de la tirada ---------------------------------------- HECHA
-Se debe de comprobar que las tiradas de la maquina al ser aleatorias recorren las tres posibilidades ------------- DUDA
-Se debe comprobar que las tiradas de la maquina y del humano no son siempre la misma ----------------------------- NO
-=end
